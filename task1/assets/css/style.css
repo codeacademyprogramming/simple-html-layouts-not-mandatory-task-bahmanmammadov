@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(241,241,241);
+}
+
+.left-side{
+    height: 1200px;
+    width: 500px;
+    background-color: white;
+    margin-top:30px;
+    margin-left: 40px;
+    box-shadow:3px black;
+    
+    display: inline-block;
+   
+    
+    
+}
+.sp1{
+    position: absolute;
+margin-left: 20px;
+    margin-top: 270px;
+    font-size: 30px;
+}
+
+li{
+    list-style-type: none;
+}
+.sun{
+    display: inline;
+    margin-left: 5px;
+}
+.pe{
+    display: inline;
+    font-size: 50px;
+    margin-left: 30px;
+}
+
+.inpt{
+background-color: rgb(241,241,241);
+margin-left: 5px;
+margin-right: 5px;
+border-radius: 8px;
+}
+.input{
+ width: 90%;
+ border-radius: 8px;
+ background-color: rgb(0,150,136);
+}
+.all-right-side{
+    height: 500px;
+    width: 300px;
+    background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 20px;
+  margin-top: 30px;
+  height: 1200px;
+    width: 800px;
+    box-shadow: 2px 2px 2px 2px rgb(217,217,217);
+    
+    
+}
+.canta{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: inline;
+}
+.work{
+    display: inline;
+    font-size: 30px;
+    margin-left: 10px;
+}
+hr{
+    background-color: wheat;
+    width: 98%;
+}
