@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.girlfoto{
+    width: 600px;
+    height: 749px;
+    display: inline;
+    
+}
+.right-side{
+    
+    width: 900px;
+    height: 10000px;
+    vertical-align: top;
+    margin-left: 15px;
+}
+.inputdown:hover{
+    background-color:rgb(73, 64, 64) ;
+   
+}
+.inputdown{
+    height: 50px;
+    width: 250px;
+    background-color: rgb(241,241,241);
+     margin-left: 350px;
+      margin-top: 20px;
+}
+.partners p{
+    text-align: center;
+    color: white;
+}
+.partners span{
+    padding-left: 85px;
+    color: white;
+}
+.partners div{
+    padding-top: 50px;
+}
+
